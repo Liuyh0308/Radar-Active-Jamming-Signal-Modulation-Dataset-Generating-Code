@@ -7,7 +7,7 @@
   > These two different modalities can be used for training an *auto radar interference detector, radar interference identifier, an end2end radar denoising system*.
 3. You can also **adjust various signal parameters** in the code file, or **add multipath fading or Doppler shift** as you wish to simulate different scenarios.
   > Various signal parameters include: SNR, carrier frequency, center frequency, JSR, delay time, and parameters related to specific interference.
-    > Specific interference parameters, such as the number of samples and forwardings of ISRJ, can be customized.
+  > Specific interference parameters, such as the number of samples and forwardings of ISRJ, can be customized.
 
 
 
