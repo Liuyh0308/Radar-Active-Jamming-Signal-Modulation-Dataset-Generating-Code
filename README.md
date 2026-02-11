@@ -8,8 +8,17 @@
 3. You can also **adjust various signal parameters** in the code file, or **add multipath fading or Doppler shift** as you wish to simulate different scenarios.
   > Various signal parameters include: SNR, carrier frequency, center frequency, JSR, delay time, and parameters related to specific interference.
   > Specific interference parameters, such as the number of samples and forwardings of ISRJ, can be customized.
+## Simulation Result
+- Take Comb interference as an example, the simulation results after running are as follows.
 
+Time domain sequence of Comb:
+- ![Time domain sequence of Comb](/pics/COMB-time.png)
 
+Frequency domain sequence of Comb:
+- ![Frequency domain sequence of Comb](/pics/COMB-freq.png)
+
+Time domain sequence of Comb:
+- ![Time-Frequency domain sequence of Comb](/pics/COMB-time&freq.png)
 
 
 
